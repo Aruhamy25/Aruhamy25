@@ -14,6 +14,7 @@ public class Inverse {
 		System.out.println("work is done");
 		System.out.println("sakthi....");
 		System.out.println("Raj2....");
+		System.out.println("Aru..............................");
 
 	}
 }
