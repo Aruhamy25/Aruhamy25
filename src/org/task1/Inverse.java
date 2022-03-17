@@ -18,6 +18,6 @@ public class Inverse {
 		
 		System.out.println("trial 1..............");
 		System.out.println("12345");
-
+		
 	}
 }
