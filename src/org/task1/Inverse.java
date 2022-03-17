@@ -13,6 +13,13 @@ public class Inverse {
 		System.out.println(rev);
 		System.out.println("work is done");
 		System.out.println("sakthi....");
+
+		
+
+		System.out.println("Raj2....");
+		System.out.println("Aru..............................");
+		
 		System.out.println("12345");
+
 	}
 }
