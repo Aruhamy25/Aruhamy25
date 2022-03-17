@@ -15,11 +15,9 @@ public class Inverse {
 		System.out.println("sakthi....");
 		System.out.println("Raj2....");
 		System.out.println("Aru..............................");
-
 		
-
-		
-		
+		System.out.println("trial 1..............");
+		System.out.println("12345");
 		
 	}
 }
