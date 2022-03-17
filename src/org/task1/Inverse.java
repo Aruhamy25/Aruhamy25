@@ -16,5 +16,11 @@ public class Inverse {
 		System.out.println("Raj2....");
 		System.out.println("Aru..............................");
 
+		
+		System.out.println("user1");
+
+		
+		
+		
 	}
 }
