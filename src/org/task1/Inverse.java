@@ -17,7 +17,6 @@ public class Inverse {
 		System.out.println("Aru..............................");
 
 		
-		System.out.println("user1");
 
 		
 		
